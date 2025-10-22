@@ -1,0 +1,15 @@
+{
+  "name": "treasure-hunt-vue",
+  "version": "1.0.0",
+  "description": "Vue.js寻宝游戏 - 三层架构设计，包含用户管理和排行榜功能",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo '请直接打开 index.html 文件在浏览器中运行'",
+    "start": "echo '请直接打开 index.html 文件在浏览器中运行'",
+    "build": "echo '项目使用CDN方式，无需构建'"
+  },
+  "keywords": ["vue", "game", "treasure-hunt", "三层架构", "用户管理", "排行榜"],
+  "author": "Student",
+  "license": "MIT",
+  "note": "此项目使用CDN方式引入Vue，可直接在浏览器中运行，无需安装依赖"
+}
